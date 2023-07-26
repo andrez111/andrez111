@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @andrez111
+Ciao! I'm Andrea 👋
+
 - 👀 I’m interested in Technology, Mountaineering and Humans!
 - 🌱 I’m currently learning AI techniques, Bubble and Russian language.
 - 💞️ I’m looking to collaborate on business projects that have an impact on people's life.
