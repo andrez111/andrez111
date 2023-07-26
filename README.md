@@ -1,12 +1,25 @@
 Ciao! I'm Andrea 👋
+=============================================================================================================================
 
-- 👀 I’m interested in Technology, Mountaineering and Humans!
-- 🌱 I’m currently learning AI techniques, Bubble and Russian language.
-- 💞️ I’m looking to collaborate on business projects that have an impact on people's life.
-- 📫 How to reach me: come to Bologna, Italy.
+Founder @Fracto
+---------------------------------------
+
+🔭 I’m currently working to innovate the way people live their employment.
+
+🤓 here on GitHub I'm trying to better understand the tech world! 
+
+💬 If you are looking for a new adventure, I think we should have a chat!
 
 
-<!---
-andrez111/andrez111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🌍  I'm based in Ravenna, Italy
+* ✉️  You can contact me at [andre@fracto.it](mailto:andre@fracto.it)
+* 🧠  I'm studying Github ( I have done Project Management and HR!)
+* 🤝  I'm open to collaborate with anyone and share career growth suggestions. 
+  
+* ⚡  I’m interested in Technology, Mountaineering, and Humans! | Dad x1 | Book addicted | I like to have an impact on people's life.
+
+### My quote: 
+
+> 🥠 Dream before you think. 
+
+<p align="left"> <a href="https://www.github.com/Andrez111" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andrea-zuppicich/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
