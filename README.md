@@ -6,7 +6,7 @@ Founder @Fracto
 
 🔭 I’m currently working to innovate the way people live their employment.
 
-🤓 here on GitHub I'm trying to better understand the tech world! 
+🤓 Here on GitHub I'm looking for a co-founder in the tech world! 
 
 💬 If you are looking for a new adventure, I think we should have a chat!
 
