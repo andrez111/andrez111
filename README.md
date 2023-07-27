@@ -13,7 +13,7 @@ Founder @Fracto
 
 * 🌍  I'm based in Ravenna, Italy
 * ✉️  You can contact me at [andre@fracto.it](mailto:andre@fracto.it)
-* 🧠  I'm studying Github ( I have done Project Management and HR!)
+* 🧠  I'm studying Github ( previously I have done Project Management and HR! )
 * 🤝  I'm open to collaborate with anyone and share career growth suggestions. 
   
 * ⚡  I’m interested in Technology, Mountaineering, and Humans! | Dad x1 | Book addicted | I like to have an impact on people's life.
