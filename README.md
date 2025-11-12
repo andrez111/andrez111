@@ -1,22 +1,22 @@
 Ciao! I'm Andrea 👋
 =============================================================================================================================
 
-Founder @Fracto
+AI Adoption & Change Management Advisor @ Arsenalia
+
 ---------------------------------------
 
-🔭 I’m currently working to innovate the way people live their employment.
+🔭 I’m currently using AI to evolve how companies do their business, and people live their employment.
 
-🤓 Here on GitHub I'm looking for a co-founder in the tech world! 
+Working on an open repository to help others integrate AI in their workflows.
 
-💬 If you are looking for a new adventure, I think we should have a chat!
+* 🌍  Based in Italy.
+* ✉️  Social Activist for a cleaner environment and more informed citizens (about politics)
+* 🧠  Finance background, worked 10 years in HR and Project Management. 
+* 🤝  Founder of Fracto - The Talent lending platform (startup, now freezed)
 
-
-* 🌍  I'm based in Ravenna, Italy
-* ✉️  You can contact me at [andre@fracto.it](mailto:andre@fracto.it)
-* 🧠  I'm studying Github ( previously I have done Project Management and HR! )
-* 🤝  I'm open to collaborate with anyone and share career growth suggestions. 
+💬 If you are looking for meaningful connection about tech projects that might have an impact, let's have a chat.
   
-* ⚡  I’m interested in Technology, Mountaineering, and Humans! | Dad x1 | Book addicted | I like to have an impact on people's life.
+* ⚡  I’m interested in Technology, International politics, Mountaineering, and Humans.  |  Dad  |  Book addicted  | 
 
 ### My quote: 
 
