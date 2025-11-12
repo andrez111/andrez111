@@ -9,14 +9,14 @@ AI Adoption & Change Management Advisor @ Arsenalia
 
 Working on an open repository to help others integrate AI in their workflows.
 
-• 🌍  Based in Italy.
-• ✉️  Social Activist for a cleaner environment and more informed citizens (about politics)
-• 🧠  Finance background, worked 10 years in HR and Project Management. 
-• 🤝  Founder of Fracto - The Talent lending platform (startup, now freezed)
+* 🌍  Based in Italy.
+* ✉️  Social Activist for a cleaner environment and more informed citizens (about politics)
+* 🧠  Finance background, worked 10 years in HR and Project Management. 
+* 🤝  Founder of Fracto - The Talent lending platform (startup, now freezed)
 
 💬 If you are looking for meaningful connection about tech projects that might have an impact, let's have a chat.
   
-⚡  I’m interested in Technology, International politics, Mountaineering, and Humans.  |  Dad  |  Book addicted  | 
+* ⚡  I’m interested in Technology, International politics, Mountaineering, and Humans.  |  Dad  |  Book addicted  | 
 
 ### My quote: 
 
