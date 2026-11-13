@@ -5,13 +5,14 @@ AI Adoption Lead @ Arsenalia
 
 ---------------------------------------
 
-🔭 I’m currently using AI to evolve how companies do their business, and people live their employment.
+🔭 I’m currently using AI to lead people evolution and help companies change their business.
 
 Working on an open repository to help others integrate AI in their workflows.
 
 * 🌍  Based in Italy.
-* ✉️  Social Activist for a cleaner environment and more informed citizens about politics
-* 🧠  Finance background, worked 10 years in HR and Project Management. 
+* ✉️  Social Activist for a better relationship between citizens and politics. 
+* 🧠  Finance background, expertise in HR, Project Management and AI Adoption programs.
+* 🚀  Speaker & Trainer, for students and CEOs.
 * 🤝  Founder of Fracto - The Talent lending platform (startup, now freezed)
 
 💬 If you are looking for meaningful connection about tech projects that might have an impact, let's have a chat.
@@ -20,7 +21,7 @@ Working on an open repository to help others integrate AI in their workflows.
 
 ### My quote: 
 
-> 🥠 Dream before you think.
+> 🥠 Dream > Think > Build
 > 
 ### Let's connect:
 
